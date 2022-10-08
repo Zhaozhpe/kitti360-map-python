@@ -1,3 +1,7 @@
+'''
+This demo code is originated from here "https://github.com/cattaneod/CMRNet/blob/master/preprocess/kitti_maps.py"
+'''
+
 import argparse
 import os
 import numpy as np
