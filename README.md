@@ -1,5 +1,5 @@
 # kitti360-map-python
-kitti360 global Lidar map making and sub-maps cutting in python
+kitti360 global Lidar map making and sub-maps division in python
 
 ![image](https://github.com/Zhaozhpe/kitti360-global-map-python/blob/master/IMG/result.png "Sequence 00")
 
